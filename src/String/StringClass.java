@@ -75,6 +75,8 @@ public class StringClass {
 		int number1 = Integer.parseInt(num);
 		System.out.println(a.startsWith("HE"));
 		System.out.println(number1+1);
+		
+		
 	}
 
 }
