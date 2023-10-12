@@ -22,7 +22,7 @@ public class ArrayListClass {
 		 * AL.remove(value)
 		 * AL.removeAll(AL1) --> It'll remove all values in AL1 from AL
 		 * AL.toArray() --> It'll return Object[]
-		 * AL.subList(beginIndex, endIndex) --> to create a sublist Array
+		 * AL.subList(beginIndex, endIndex) --> to create a sublist
 		 */
 
 		ArrayList<Integer> AL = new ArrayList<Integer>();

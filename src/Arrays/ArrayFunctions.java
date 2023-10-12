@@ -19,8 +19,8 @@ public class ArrayFunctions {
 	 * Arrays.fil(array1,value)
 	 * Arrays.prallelSort(arrayName)
 	 * Arrays.sort(arrayName)
-	 * Arrays.sort(arrayName, FromIndex, ToIndex)
-	 * Arrays.sort(intArrLIST, Collections.reverseOrder()); --> to print in reverse order
+	 * Arrays.sort(arrayName, FromIndex, ToIndex) --> Ascending order
+	 * Arrays.sort(intArrLIST, Collections.reverseOrder()); --> to print in Descending order
 	 */
 	
 	

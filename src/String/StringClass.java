@@ -43,8 +43,8 @@ public class StringClass {
 		System.out.println(a.substring(1, 4));
 		
 		//contains
-		System.out.println(a.contains("E"));
-		System.out.println(a.contains("Z"));
+		System.out.println("Contains E: "+a.contains("E"));
+		System.out.println("Contains Z: "+a.contains("Z"));
 		
 		//concat
 		System.out.println(a.concat(" NARESH"));
@@ -75,8 +75,10 @@ public class StringClass {
 		int number1 = Integer.parseInt(num);
 		System.out.println(a.startsWith("HE"));
 		System.out.println(number1+1);
-		
-		
+
+		// String to INT
+		System.out.println(Integer.parseInt("2"));
+		System.out.println((Integer.parseInt("2"))+2);
 	}
 
 }

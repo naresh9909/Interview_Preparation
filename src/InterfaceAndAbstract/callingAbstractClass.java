@@ -4,9 +4,12 @@ public class callingAbstractClass extends abstractClass {
 
 
 	@Override
-	 int sum(int a, int b) {
+	 public int sum(int a, int b) {
 		// TODO Auto-generated method stub
+		System.out.println(greet);
 		return 2 * (a + b);
 	}
+	
+
 
 }

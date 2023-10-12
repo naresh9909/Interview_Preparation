@@ -7,9 +7,8 @@ public class StringBufferClass {
 		System.out.println(sb);
 		
 		sb.append(" Naresh");
-		sb.append("HOW ARE YOU"); 
+		sb.append(" HOW ARE YOU"); 
 		System.out.println(sb);
-		
 		
 		System.out.println(sb.length());
 		System.out.println(sb.reverse());
